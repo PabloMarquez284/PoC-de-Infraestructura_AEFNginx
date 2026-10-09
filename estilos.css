@@ -1,0 +1,26 @@
+.encabezado {
+    display: flex;
+    flex-flow: row wrap;
+    text-align: center;
+    align-items: center;
+    justify-content: space-around;
+    padding: 20px;
+}
+
+.titulo {
+    color: #1f5f25;
+}
+
+.logo {
+    width: 8%;
+    height: 8%;
+}
+
+.footer {
+    display: flex;
+    flex-flow: row wrap;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    padding: 20px;
+}
